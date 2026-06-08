@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "v5-56",
+  "compatibility_date": "2026-06-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "helix_roleplay_v6_fixed"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
